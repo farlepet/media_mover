@@ -1,0 +1,9 @@
+[package]
+name = "media_mover"
+description = "Tool for copying, renaming, and transcoding media files"
+version = "0.1.0"
+edition = "2021"
+authors = [ "Peter Farley <far.peter1@gmail.com>" ]
+license = "MIT"
+
+[dependencies]
